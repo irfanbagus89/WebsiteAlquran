@@ -1,0 +1,1 @@
+export const Surat_URL = 'https://raw.githubusercontent.com/penggguna/QuranJSON/master';

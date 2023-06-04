@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.nav-fix{
+    @apply fixed z-50 bg-white bg-opacity-80;
+    backdrop-filter: blur(5px);
+}
